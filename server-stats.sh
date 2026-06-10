@@ -1,4 +1,3 @@
-
 echo "##########"
 echo "Server Perfomance Stats"
 echo "##########"
